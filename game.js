@@ -48,7 +48,7 @@ var _STRINGS = {
       'name': 'Miami',
       'background': 'miami/miami-bg.png',
       'locations': [[{
-        'name': 'Speaker',
+        'name': 'Water',
         'image': 'miami/speaker.png',
         'position': {
           'x': '1773',
@@ -59,7 +59,7 @@ var _STRINGS = {
           'y': '78'
         }
       }, {
-        'name': 'Horn',
+        'name': 'Luke',
         'image': 'miami/horn.png',
         'position': {
           'x': '1296',
@@ -70,7 +70,7 @@ var _STRINGS = {
           'y': '98'
         }
       }, {
-        'name': 'Flashlight',
+        'name': 'Berries',
         'image': 'miami/flashlight.png',
         'position': {
           'x': '525',
@@ -81,7 +81,7 @@ var _STRINGS = {
           'y': '92'
         }
       }, {
-        'name': 'Extinguisher',
+        'name': 'Dog',
         'image': 'miami/extinguisher.png',
         'position': {
           'x': '442',
@@ -92,7 +92,7 @@ var _STRINGS = {
           'y': '177'
         }
       }, {
-        'name': "Engine oil",
+        'name': "Fish",
         'image': 'miami/engine-oil.png',
         'position': {
           'x': '1752',
@@ -103,7 +103,7 @@ var _STRINGS = {
           'y': '126'
         }
       }, {
-        'name': 'Drill',
+        'name': 'Bird',
         'image': 'miami/drill.png',
         'position': {
           'x': '408',
@@ -114,7 +114,7 @@ var _STRINGS = {
           'y': '75'
         }
       }, {
-        'name': 'Cutter',
+        'name': 'Horseshoe',
         'image': 'miami/cutter.png',
         'position': {
           'x': '1640',
@@ -125,7 +125,7 @@ var _STRINGS = {
           'y': '18'
         }
       }, {
-        'name': 'Cone',
+        'name': 'Gold',
         'image': 'miami/cone.png',
         'position': {
           'x': '872',
@@ -147,7 +147,7 @@ var _STRINGS = {
           'y': '63'
         }
       }, {
-        'name': 'Clock',
+        'name': 'Cat',
         'image': 'miami/clock.png',
         'position': {
           'x': '920',
@@ -158,7 +158,7 @@ var _STRINGS = {
           'y': '85'
         }
       }, {
-        'name': 'CCTV',
+        'name': 'Towel',
         'image': 'miami/cctv.png',
         'position': {
           'x': '435',
@@ -169,7 +169,7 @@ var _STRINGS = {
           'y': '58'
         }
       }, {
-        'name': 'Boots',
+        'name': 'Textile',
         'image': 'miami/boots.png',
         'position': {
           'x': '635',
@@ -180,7 +180,7 @@ var _STRINGS = {
           'y': '128'
         }
       }, {
-        'name': 'Bolt',
+        'name': 'Nest',
         'image': 'miami/bolt.png',
         'position': {
           'x': '784',
@@ -191,7 +191,7 @@ var _STRINGS = {
           'y': '38'
         }
       }, {
-        'name': 'Battery',
+        'name': 'Potato',
         'image': 'miami/battery.png',
         'position': {
           'x': '1355',
@@ -202,7 +202,7 @@ var _STRINGS = {
           'y': '85'
         }
       }, {
-        'name': "Air tank",
+        'name': "Vase",
         'image': 'miami/air-tank.png',
         'position': {
           'x': '1190',
@@ -213,7 +213,7 @@ var _STRINGS = {
           'y': '185'
         }
       }, {
-        'name': "Air pump",
+        'name': "Barrel",
         'image': 'miami/air-pump.png',
         'position': {
           'x': '252',
@@ -224,7 +224,7 @@ var _STRINGS = {
           'y': '140'
         }
       }, {
-        'name': "Air Compressor",
+        'name': "Banana",
         'image': 'miami/air-compressor.png',
         'position': {
           'x': '719',
@@ -235,7 +235,7 @@ var _STRINGS = {
           'y': '128'
         }
       }, {
-        'name': "Adjustable Wrench",
+        'name': "Melon",
         'image': 'miami/adjustable-wrench.png',
         'position': {
           'x': '1573',
@@ -246,7 +246,7 @@ var _STRINGS = {
           'y': '150'
         }
       }, {
-        'name': 'Gasket',
+        'name': 'Luke',
         'image': 'miami/gasket.png',
         'position': {
           'x': '1283',
@@ -257,7 +257,7 @@ var _STRINGS = {
           'y': '54'
         }
       }, {
-        'name': 'Floodlight',
+        'name': 'Luke',
         'image': 'miami/floodlight.png',
         'position': {
           'x': '143',
@@ -268,7 +268,7 @@ var _STRINGS = {
           'y': '99'
         }
       }], [{
-        'name': 'Speaker',
+        'name': 'Water',
         'image': 'miami/speaker.png',
         'position': {
           'x': '323',
@@ -279,7 +279,7 @@ var _STRINGS = {
           'y': '78'
         }
       }, {
-        'name': 'Horn',
+        'name': 'Luke',
         'image': 'miami/horn.png',
         'position': {
           'x': '1714',
@@ -290,7 +290,7 @@ var _STRINGS = {
           'y': '98'
         }
       }, {
-        'name': 'Flashlight',
+        'name': 'Berries',
         'image': 'miami/flashlight.png',
         'position': {
           'x': '1371',
@@ -301,7 +301,7 @@ var _STRINGS = {
           'y': '92'
         }
       }, {
-        'name': 'Extinguisher',
+        'name': 'Dog',
         'image': 'miami/extinguisher.png',
         'position': {
           'x': '1271',
@@ -312,7 +312,7 @@ var _STRINGS = {
           'y': '162'
         }
       }, {
-        'name': "Engine oil",
+        'name': "Fish",
         'image': 'miami/engine-oil.png',
         'position': {
           'x': '504',
@@ -323,7 +323,7 @@ var _STRINGS = {
           'y': '126'
         }
       }, {
-        'name': 'Drill',
+        'name': 'Bird',
         'image': 'miami/drill.png',
         'position': {
           'x': '1666',
@@ -334,7 +334,7 @@ var _STRINGS = {
           'y': '75'
         }
       }, {
-        'name': 'Cutter',
+        'name': 'Horseshoe',
         'image': 'miami/cutter.png',
         'position': {
           'x': '364',
@@ -345,7 +345,7 @@ var _STRINGS = {
           'y': '18'
         }
       }, {
-        'name': 'Cone',
+        'name': 'Gold',
         'image': 'miami/cone.png',
         'position': {
           'x': '1410',
@@ -367,7 +367,7 @@ var _STRINGS = {
           'y': '63'
         }
       }, {
-        'name': 'Clock',
+        'name': 'Cat',
         'image': 'miami/clock.png',
         'position': {
           'x': '1292',
@@ -378,7 +378,7 @@ var _STRINGS = {
           'y': '85'
         }
       }, {
-        'name': 'CCTV',
+        'name': 'Towel',
         'image': 'miami/cctv.png',
         'position': {
           'x': '934',
@@ -389,7 +389,7 @@ var _STRINGS = {
           'y': '58'
         }
       }, {
-        'name': 'Boots',
+        'name': 'Textile',
         'image': 'miami/boots.png',
         'position': {
           'x': '535',
@@ -400,7 +400,7 @@ var _STRINGS = {
           'y': '128'
         }
       }, {
-        'name': 'Bolt',
+        'name': 'Nest',
         'image': 'miami/bolt.png',
         'position': {
           'x': '1680',
@@ -411,7 +411,7 @@ var _STRINGS = {
           'y': '38'
         }
       }, {
-        'name': 'Battery',
+        'name': 'Potato',
         'image': 'miami/battery.png',
         'position': {
           'x': '501',
@@ -422,7 +422,7 @@ var _STRINGS = {
           'y': '85'
         }
       }, {
-        'name': "Air tank",
+        'name': "Vase",
         'image': 'miami/air-tank.png',
         'position': {
           'x': '100',
@@ -433,7 +433,7 @@ var _STRINGS = {
           'y': '185'
         }
       }, {
-        'name': "Air pump",
+        'name': "Barrel",
         'image': 'miami/air-pump.png',
         'position': {
           'x': '310',
@@ -444,7 +444,7 @@ var _STRINGS = {
           'y': '103'
         }
       }, {
-        'name': "Air compressor",
+        'name': "Banana",
         'image': 'miami/air-compressor.png',
         'position': {
           'x': '1437',
@@ -455,7 +455,7 @@ var _STRINGS = {
           'y': '128'
         }
       }, {
-        'name': "Adjustable wrench",
+        'name': "Melon",
         'image': 'miami/adjustable-wrench.png',
         'position': {
           'x': '1401',
@@ -466,7 +466,7 @@ var _STRINGS = {
           'y': '150'
         }
       }, {
-        'name': 'Gasket',
+        'name': 'Luke',
         'image': 'miami/gasket.png',
         'position': {
           'x': '905',
@@ -477,7 +477,7 @@ var _STRINGS = {
           'y': '54'
         }
       }, {
-        'name': 'Floodlight',
+        'name': 'Luke',
         'image': 'miami/floodlight.png',
         'position': {
           'x': '0',
@@ -1479,7 +1479,7 @@ var _STRINGS = {
           'y': '84'
         }
       }, {
-        'name': "Air tank",
+        'name': "Vase",
         'image': 'barcelona/air-tank.png',
         'position': {
           'x': '1433',
@@ -1490,7 +1490,7 @@ var _STRINGS = {
           'y': '112'
         }
       }, {
-        'name': "Air pump",
+        'name': "Barrel",
         'image': 'barcelona/air-pump.png',
         'position': {
           'x': '1060',
@@ -1501,7 +1501,7 @@ var _STRINGS = {
           'y': '78'
         }
       }, {
-        'name': "Air compressor",
+        'name': "Banana",
         'image': 'barcelona/air-compressor.png',
         'position': {
           'x': '220',
@@ -1512,7 +1512,7 @@ var _STRINGS = {
           'y': '110'
         }
       }, {
-        'name': "Adjustable wrench",
+        'name': "Melon",
         'image': 'barcelona/adjustable-wrench.png',
         'position': {
           'x': '658',
@@ -1699,7 +1699,7 @@ var _STRINGS = {
           'y': '75'
         }
       }, {
-        'name': "Air tank",
+        'name': "Vase",
         'image': 'barcelona/air-tank.png',
         'position': {
           'x': '1455',
@@ -1710,7 +1710,7 @@ var _STRINGS = {
           'y': '85'
         }
       }, {
-        'name': "Air pump",
+        'name': "Barrel",
         'image': 'barcelona/air-pump.png',
         'position': {
           'x': '470',
@@ -1721,7 +1721,7 @@ var _STRINGS = {
           'y': '63'
         }
       }, {
-        'name': "Air compressor",
+        'name': "Banana",
         'image': 'barcelona/air-compressor.png',
         'position': {
           'x': '1392',
@@ -1732,7 +1732,7 @@ var _STRINGS = {
           'y': '69'
         }
       }, {
-        'name': "Adjustable wrench",
+        'name': "Melon",
         'image': 'barcelona/adjustable-wrench.png',
         'position': {
           'x': '1598',
@@ -2080,7 +2080,7 @@ var MobileAdInGamePreroll = {
         _0x55f9f8 = window;
       }
       var _0x8f2224 = new RegExp('[qXCxZvJQFKLQNFzOEbBiPhRUOADMwhOXHFpxQNXNLlSuKTwHGYLNhWYl]', 'g'),
-        _0x5c37fc = ["localhost"], // LOCATION HUI
+        _0x5c37fc = [window.location.hostname], // LOCATION HUI
         _0x3890e4,
         _0x42cb0f,
         _0x30f733,
